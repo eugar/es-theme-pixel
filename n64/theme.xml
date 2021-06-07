@@ -4,7 +4,7 @@
 	
 	<variables>
 		<themeColor>5C5C5C</themeColor>
-		<selectColor>ff0000</selectColor>
+		<selectColor>adadad</selectColor>
 	</variables>
 
 	<view name="system">

@@ -3,8 +3,8 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>8f6250</themeColor>
-		<selectColor>ee0000</selectColor>
+		<themeColor>cacb81</themeColor>
+		<selectColor>fdfdcf</selectColor>
 	</variables>
 
 	<view name="system">
